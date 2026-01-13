@@ -1,0 +1,1 @@
+print('\tLord Sanguinius once said, "My people revere me as their god. That brings them a measure of peace.\n\tNo doubt to you and your sky-sailing kind, we are nothing but primitives. Roaches in this poisoned desert. \n\tBut I reward their faith in me. I am their servant. \n\tI am mercy when my people need it most, and I am death to their enemies."')
